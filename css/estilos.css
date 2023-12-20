@@ -13,12 +13,19 @@ body
     padding: lem;
     text-align: left;
     border: 1px saddlebrown;
+<<<<<<< HEAD
     background-color: blue;
+=======
+>>>>>>> cabecera
     margin: 0 auto;
 }
 #container h1
 {
+<<<<<<< HEAD
 font-size: 20px;
+=======
+font-size: medium;
+>>>>>>> cabecera
 }
 
 ]
