@@ -1,12 +1,31 @@
 body
 {
+<<<<<<< HEAD
     color: blue;
+=======
+    color: rgb(175, 16, 16);
+>>>>>>> cabecera
      text-align: center;
      font-family: Arial, Helvetica, sans-serif;
      font-size: 16px;
      margin: auto;
      padding: 0;
 }
+#cabecera
+{
+    background-color: coral;
+    box-shadow: 0px 2px 20px 0px red;
+    color: greenyellow;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+
+#cabecera #tagline
+{
+    padding 0 0 0 1en;
+    font-weight: normal;
+    font-size: 0.8em;
 #container
 {
     width: 70%;
